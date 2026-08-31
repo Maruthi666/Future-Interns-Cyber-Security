@@ -30,7 +30,7 @@ A-02 was the one that actually taught me something — watching a different user
 
 ## Files in this repo
 
-- `FUTURE_CS_03_API_Security_Risk_Analysis.docx` — full write-up with findings, business impact, and remediation guidance
+- `FUTURE_CS_03_API_Security_Risk_Analysis.pdf` — full write-up with findings, business impact, and remediation guidance
 
 ## Next step
 
