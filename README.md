@@ -1,5 +1,5 @@
 ﻿# Future Interns — Cyber Security Internship
-Intern: Lalasmaruthi Talluru | CIN ID: FIT/AUG26/CS10164
+Intern: Lalas Maruthi | CIN ID: FIT/AUG26/CS10164
 
 ## Tasks
 - [FUTURE_CS_01](./FUTURE_CS_01) — Vulnerability Assessment Report
