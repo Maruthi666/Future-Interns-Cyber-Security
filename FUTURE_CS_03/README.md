@@ -36,6 +36,4 @@ A-02 was the one that actually taught me something — watching a different user
 
 I plan to run this same checklist against my actual assigned API target once it's confirmed, as the final version of this task.
 
-## License
 
-MIT — see [LICENSE](./LICENSE)
