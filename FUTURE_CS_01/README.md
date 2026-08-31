@@ -1,7 +1,7 @@
 # FUTURE_CS_01 — Vulnerability Assessment Report
 
 Cyber Security Internship @ Future Interns
-Intern: **Lalasmaruthi Talluru** | CIN ID: `FIT/AUG26/CS10164`
+Intern: **Lalas Maruthi** | CIN ID: `FIT/AUG26/CS10164`
 
 ## About this task
 
@@ -28,7 +28,7 @@ The two High findings were the ones that mattered most — both are common, well
 
 ## Files in this repo
 
-- `FUTURE_CS_01_Vulnerability_Assessment_Report.docx` — full write-up with detailed findings, business-language explanations, and remediation steps
+- `FUTURE_CS_01_Vulnerability_Assessment_Report.pdf` — full write-up with detailed findings, business-language explanations, and remediation steps
 - `screenshots/` — scan output and manual verification evidence
 
 ## What I'd do differently on a real engagement
