@@ -1,7 +1,7 @@
 # FUTURE_CS_03 — API Security Risk Analysis
 
 Cyber Security Internship @ Future Interns
-Intern: **Lalasmaruthi Talluru** | CIN ID: `FIT/AUG26/CS10164`
+Intern: **Lalas Maruthi** | CIN ID: `FIT/AUG26/CS10164`
 
 ## About this task
 
