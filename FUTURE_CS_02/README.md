@@ -1,7 +1,7 @@
 # FUTURE_CS_02 — Phishing Email Detection & Awareness System
 
 Cyber Security Internship @ Future Interns
-Intern: **Lalasmaruthi Talluru** | CIN ID: `FIT/AUG26/CS10164`
+Intern: **Lalas Maruthi** | CIN ID: `FIT/AUG26/CS10164`
 
 ## About this task
 
@@ -29,7 +29,7 @@ E-04 is worth calling out — I wasn't fully confident labeling it phishing outr
 
 ## Files in this repo
 
-- `FUTURE_CS_02_Phishing_Detection_Awareness_Report.docx` — full analysis with per-email breakdowns and end-user prevention guidelines
+- `FUTURE_CS_02_Phishing_Detection_Awareness_Report.pdf` — full analysis with per-email breakdowns and end-user prevention guidelines
 
 ## What this task taught me
 
