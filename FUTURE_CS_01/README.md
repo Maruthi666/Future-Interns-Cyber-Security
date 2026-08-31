@@ -35,6 +35,4 @@ The two High findings were the ones that mattered most — both are common, well
 
 Spend more time manually confirming each automated finding before writing it down — the tool gets you 80% of the way, but the last 20% is where you actually understand *why* something is a risk.
 
-## License
 
-MIT — see [LICENSE](./LICENSE)
