@@ -35,6 +35,4 @@ E-04 is worth calling out — I wasn't fully confident labeling it phishing outr
 
 Most of these emails didn't rely on anything technically clever — they relied on someone being rushed. That reframed how I think about awareness training: it's less about teaching people to read code and more about teaching them to slow down for ten seconds before clicking.
 
-## License
 
-MIT — see [LICENSE](./LICENSE)
